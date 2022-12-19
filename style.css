@@ -1,7 +1,7 @@
 body {
     background-color: bisque;
     min-height: 100vh;
-    min-width: 320px;
+    min-width: 120px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -98,4 +98,3 @@ h3 {
     margin: 0 auto;
     min-height: 10px;
 }
-
