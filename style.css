@@ -48,6 +48,18 @@ header {
     color: #6f0d58;
     font-size: 30px;
 }
+pre {
+    display: flex;
+    align-self: center;
+    width: 45%;
+    background-color: darkgray;
+    margin-left: 450px;
+    text-align: center;
+}
+#contacts {
+    list-style: none;
+    text-decoration: none;
+}
 .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -70,7 +82,7 @@ h1 {
 }
 h2 {
     text-align: center;
-    color:darkmagenta;
+    color:rgb(13, 0, 13);
     font-size: 1em;
     margin-top: 0;
     margin-bottom: 1em;
